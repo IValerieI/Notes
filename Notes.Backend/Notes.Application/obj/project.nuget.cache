@@ -1,9 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "KClbLyV59YIG8LXCKXYURY+i2m4mRw7MTZqLZCwzWvlOJNc4/inliWgnfyyY8bGG+KJqQ3l3j7SkMRgAL4EetA==",
+  "dgSpecHash": "SmAVZZ6zIuBhpuhQ5Q4SOHx8jDXqFoCIk16CLGfVbSffX0R7S9M+RcOOOPK9QOE8DO4/YrzP0Qq0bVAyY+dudw==",
   "success": true,
   "projectFilePath": "C:\\projects\\.NET\\Internship\\SeverStal\\Project\\Notes.Backend\\Notes.Application\\Notes.Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Valeria\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\Valeria\\.nuget\\packages\\mediatr\\12.0.1\\mediatr.12.0.1.nupkg.sha512",
+    "C:\\Users\\Valeria\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Valeria\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Valeria\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.3\\microsoft.entityframeworkcore.7.0.3.nupkg.sha512",
     "C:\\Users\\Valeria\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.3\\microsoft.entityframeworkcore.abstractions.7.0.3.nupkg.sha512",
     "C:\\Users\\Valeria\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.3\\microsoft.entityframeworkcore.analyzers.7.0.3.nupkg.sha512",
