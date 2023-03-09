@@ -72,6 +72,7 @@ namespace Notes.Identity
             });
             app.UseRouting();
             app.UseIdentityServer();
+            app.UseCors("AllowAll");
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapDefaultControllerRoute();
