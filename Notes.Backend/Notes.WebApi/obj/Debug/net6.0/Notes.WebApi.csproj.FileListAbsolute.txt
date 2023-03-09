@@ -86,3 +86,14 @@ C:\projects\.NET\Internship\SeverStal\Project\Notes.Backend\Notes.WebApi\bin\Deb
 C:\projects\.NET\Internship\SeverStal\Project\Notes.Backend\Notes.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\projects\.NET\Internship\SeverStal\Project\Notes.Backend\Notes.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\projects\.NET\Internship\SeverStal\Project\Notes.Backend\Notes.WebApi\obj\Debug\net6.0\Notes.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\projects\.NET\Internship\SeverStal\Project\Notes.Backend\Notes.WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\projects\.NET\Internship\SeverStal\Project\Notes.Backend\Notes.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\projects\.NET\Internship\SeverStal\Project\Notes.Backend\Notes.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\projects\.NET\Internship\SeverStal\Project\Notes.Backend\Notes.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\projects\.NET\Internship\SeverStal\Project\Notes.Backend\Notes.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\projects\.NET\Internship\SeverStal\Project\Notes.Backend\Notes.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\projects\.NET\Internship\SeverStal\Project\Notes.Backend\Notes.WebApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\projects\.NET\Internship\SeverStal\Project\Notes.Backend\Notes.WebApi\bin\Debug\net6.0\Notes.WebApi.xml
+C:\projects\.NET\Internship\SeverStal\Project\Notes.Backend\Notes.WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\projects\.NET\Internship\SeverStal\Project\Notes.Backend\Notes.WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer.dll
+C:\projects\.NET\Internship\SeverStal\Project\Notes.Backend\Notes.WebApi\obj\Debug\net6.0\Notes.WebApi.xml
