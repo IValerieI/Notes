@@ -20,7 +20,7 @@ namespace Notes.Application.Notes.Commands.CreateNote
                 UserId = request.UserId,
                 Title = request.Title,
                 Text = request.Text,
-                Image = request.Image,
+                //Image = request.Image,
                 Id = Guid.NewGuid(),
                 CreationDate = DateTime.Now,
                 EditDate = null

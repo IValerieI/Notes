@@ -1,0 +1,15 @@
+C:\projects\.NET\Internship\SeverStal\Project\Notes.Backend\Notes.Application\bin\Debug\net6.0\Notes.Application.deps.json
+C:\projects\.NET\Internship\SeverStal\Project\Notes.Backend\Notes.Application\bin\Debug\net6.0\Notes.Application.dll
+C:\projects\.NET\Internship\SeverStal\Project\Notes.Backend\Notes.Application\bin\Debug\net6.0\Notes.Application.pdb
+C:\projects\.NET\Internship\SeverStal\Project\Notes.Backend\Notes.Application\bin\Debug\net6.0\Notes.Domain.dll
+C:\projects\.NET\Internship\SeverStal\Project\Notes.Backend\Notes.Application\bin\Debug\net6.0\Notes.Domain.pdb
+C:\projects\.NET\Internship\SeverStal\Project\Notes.Backend\Notes.Application\obj\Debug\net6.0\Notes.Application.csproj.AssemblyReference.cache
+C:\projects\.NET\Internship\SeverStal\Project\Notes.Backend\Notes.Application\obj\Debug\net6.0\Notes.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\.NET\Internship\SeverStal\Project\Notes.Backend\Notes.Application\obj\Debug\net6.0\Notes.Application.AssemblyInfoInputs.cache
+C:\projects\.NET\Internship\SeverStal\Project\Notes.Backend\Notes.Application\obj\Debug\net6.0\Notes.Application.AssemblyInfo.cs
+C:\projects\.NET\Internship\SeverStal\Project\Notes.Backend\Notes.Application\obj\Debug\net6.0\Notes.Application.csproj.CoreCompileInputs.cache
+C:\projects\.NET\Internship\SeverStal\Project\Notes.Backend\Notes.Application\obj\Debug\net6.0\Notes.Application.csproj.CopyComplete
+C:\projects\.NET\Internship\SeverStal\Project\Notes.Backend\Notes.Application\obj\Debug\net6.0\Notes.Application.dll
+C:\projects\.NET\Internship\SeverStal\Project\Notes.Backend\Notes.Application\obj\Debug\net6.0\refint\Notes.Application.dll
+C:\projects\.NET\Internship\SeverStal\Project\Notes.Backend\Notes.Application\obj\Debug\net6.0\Notes.Application.pdb
+C:\projects\.NET\Internship\SeverStal\Project\Notes.Backend\Notes.Application\obj\Debug\net6.0\ref\Notes.Application.dll

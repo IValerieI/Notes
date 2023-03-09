@@ -27,7 +27,7 @@ namespace Notes.Application.Notes.Commands.UpdateNote
             }
 
             entity.Text = request.Text;
-            entity.Image = request.Image;
+            //entity.Image = request.Image;
             entity.Title = request.Title;
             entity.EditDate = DateTime.Now;
 

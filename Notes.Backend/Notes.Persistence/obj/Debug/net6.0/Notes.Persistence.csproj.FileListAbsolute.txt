@@ -1,0 +1,17 @@
+C:\projects\.NET\Internship\SeverStal\Project\Notes.Backend\Notes.Persistence\bin\Debug\net6.0\Notes.Persistence.deps.json
+C:\projects\.NET\Internship\SeverStal\Project\Notes.Backend\Notes.Persistence\bin\Debug\net6.0\Notes.Persistence.dll
+C:\projects\.NET\Internship\SeverStal\Project\Notes.Backend\Notes.Persistence\bin\Debug\net6.0\Notes.Persistence.pdb
+C:\projects\.NET\Internship\SeverStal\Project\Notes.Backend\Notes.Persistence\bin\Debug\net6.0\Notes.Application.dll
+C:\projects\.NET\Internship\SeverStal\Project\Notes.Backend\Notes.Persistence\bin\Debug\net6.0\Notes.Domain.dll
+C:\projects\.NET\Internship\SeverStal\Project\Notes.Backend\Notes.Persistence\bin\Debug\net6.0\Notes.Application.pdb
+C:\projects\.NET\Internship\SeverStal\Project\Notes.Backend\Notes.Persistence\bin\Debug\net6.0\Notes.Domain.pdb
+C:\projects\.NET\Internship\SeverStal\Project\Notes.Backend\Notes.Persistence\obj\Debug\net6.0\Notes.Persistence.csproj.AssemblyReference.cache
+C:\projects\.NET\Internship\SeverStal\Project\Notes.Backend\Notes.Persistence\obj\Debug\net6.0\Notes.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\.NET\Internship\SeverStal\Project\Notes.Backend\Notes.Persistence\obj\Debug\net6.0\Notes.Persistence.AssemblyInfoInputs.cache
+C:\projects\.NET\Internship\SeverStal\Project\Notes.Backend\Notes.Persistence\obj\Debug\net6.0\Notes.Persistence.AssemblyInfo.cs
+C:\projects\.NET\Internship\SeverStal\Project\Notes.Backend\Notes.Persistence\obj\Debug\net6.0\Notes.Persistence.csproj.CoreCompileInputs.cache
+C:\projects\.NET\Internship\SeverStal\Project\Notes.Backend\Notes.Persistence\obj\Debug\net6.0\Notes.Persistence.csproj.CopyComplete
+C:\projects\.NET\Internship\SeverStal\Project\Notes.Backend\Notes.Persistence\obj\Debug\net6.0\Notes.Persistence.dll
+C:\projects\.NET\Internship\SeverStal\Project\Notes.Backend\Notes.Persistence\obj\Debug\net6.0\refint\Notes.Persistence.dll
+C:\projects\.NET\Internship\SeverStal\Project\Notes.Backend\Notes.Persistence\obj\Debug\net6.0\Notes.Persistence.pdb
+C:\projects\.NET\Internship\SeverStal\Project\Notes.Backend\Notes.Persistence\obj\Debug\net6.0\ref\Notes.Persistence.dll
