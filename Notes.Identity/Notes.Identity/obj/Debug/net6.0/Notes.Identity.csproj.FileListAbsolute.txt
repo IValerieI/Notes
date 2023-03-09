@@ -86,3 +86,6 @@ C:\projects\.NET\Internship\SeverStal\Project\Notes.Identity\Notes.Identity\bin\
 C:\projects\.NET\Internship\SeverStal\Project\Notes.Identity\Notes.Identity\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
 C:\projects\.NET\Internship\SeverStal\Project\Notes.Identity\Notes.Identity\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
 C:\projects\.NET\Internship\SeverStal\Project\Notes.Identity\Notes.Identity\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\projects\.NET\Internship\SeverStal\Project\Notes.Identity\Notes.Identity\bin\Debug\net6.0\Styles\app.css
+C:\projects\.NET\Internship\SeverStal\Project\Notes.Identity\Notes.Identity\obj\Debug\net6.0\Notes.Identity.RazorAssemblyInfo.cache
+C:\projects\.NET\Internship\SeverStal\Project\Notes.Identity\Notes.Identity\obj\Debug\net6.0\Notes.Identity.RazorAssemblyInfo.cs
