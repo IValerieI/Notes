@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Ej2SUJAWH3jwMOA4dnz69+ADKo225M0IRSPbHmkYMBKMUBwQG2eYMdGnc6AJ9ToqAen61yfsnmc+yNrWJKxGmQ==",
+  "dgSpecHash": "EufBrDqwprWe9QNgGjWTDkcnSPkQqUD1neud5UyymeG+lWJOxvs7+MyuyhQHguXmDMFRZp/FnJGodwGJk7WbCQ==",
   "success": true,
   "projectFilePath": "C:\\projects\\.NET\\Internship\\SeverStal\\Project\\Notes.Identity\\Notes.Identity\\Notes.Identity.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Valeria\\.nuget\\packages\\identitymodel\\4.4.0\\identitymodel.4.4.0.nupkg.sha512",
     "C:\\Users\\Valeria\\.nuget\\packages\\identityserver4\\4.1.2\\identityserver4.4.1.2.nupkg.sha512",
+    "C:\\Users\\Valeria\\.nuget\\packages\\identityserver4.aspnetidentity\\4.1.2\\identityserver4.aspnetidentity.4.1.2.nupkg.sha512",
     "C:\\Users\\Valeria\\.nuget\\packages\\identityserver4.storage\\4.1.2\\identityserver4.storage.4.1.2.nupkg.sha512",
     "C:\\Users\\Valeria\\.nuget\\packages\\microsoft.aspnetcore.authentication.openidconnect\\3.1.0\\microsoft.aspnetcore.authentication.openidconnect.3.1.0.nupkg.sha512",
     "C:\\Users\\Valeria\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.10\\microsoft.aspnetcore.cryptography.internal.6.0.10.nupkg.sha512",
