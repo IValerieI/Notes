@@ -4,9 +4,8 @@ using Notes.Application;
 using Notes.Application.Common.Mappings;
 using Notes.Application.Interfaces;
 using Notes.Persistence;
+using Notes.WebApi.Middleware;
 using System.Reflection;
-
-//using Notes.WebApi.Middleware;
 //using Notes.WebApi.Services;
 
 namespace Notes.WebApi
@@ -56,7 +55,7 @@ namespace Notes.WebApi
             //    options.GroupNameFormat = "'v'VVV");
             //services.AddTransient<IConfigureOptions<SwaggerGenOptions>,
             //        ConfigureSwaggerOptions>();
-            //services.AddSwaggerGen();
+            services.AddSwaggerGen();
             //services.AddApiVersioning();
 
             //services.AddSingleton<ICurrentUserService, CurrentUserService>();
@@ -70,7 +69,8 @@ namespace Notes.WebApi
             {
                 app.UseDeveloperExceptionPage();
             }
-            //app.UseSwagger();
+            app.UseSwagger();
+            app.UseSwaggerUI();
             //app.UseSwaggerUI(config =>
             //{
             //    foreach (var description in provider.ApiVersionDescriptions)
@@ -81,7 +81,7 @@ namespace Notes.WebApi
             //        config.RoutePrefix = string.Empty;
             //    }
             //});
-            //app.UseCustomExceptionHandler();
+            app.UseCustomExceptionHandler();
             app.UseRouting();
             app.UseHttpsRedirection();
             app.UseCors("AllowAll");
