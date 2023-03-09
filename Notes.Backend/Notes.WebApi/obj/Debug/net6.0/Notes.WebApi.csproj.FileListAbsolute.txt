@@ -15,7 +15,6 @@ C:\projects\.NET\Internship\SeverStal\Project\Notes.Backend\Notes.WebApi\bin\Deb
 C:\projects\.NET\Internship\SeverStal\Project\Notes.Backend\Notes.WebApi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\projects\.NET\Internship\SeverStal\Project\Notes.Backend\Notes.WebApi\bin\Debug\net6.0\FluentValidation.dll
 C:\projects\.NET\Internship\SeverStal\Project\Notes.Backend\Notes.WebApi\bin\Debug\net6.0\MediatR.dll
-C:\projects\.NET\Internship\SeverStal\Project\Notes.Backend\Notes.WebApi\bin\Debug\net6.0\MediatR.Contracts.dll
 C:\projects\.NET\Internship\SeverStal\Project\Notes.Backend\Notes.WebApi\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
 C:\projects\.NET\Internship\SeverStal\Project\Notes.Backend\Notes.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
 C:\projects\.NET\Internship\SeverStal\Project\Notes.Backend\Notes.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
@@ -81,3 +80,4 @@ C:\projects\.NET\Internship\SeverStal\Project\Notes.Backend\Notes.WebApi\bin\Deb
 C:\projects\.NET\Internship\SeverStal\Project\Notes.Backend\Notes.WebApi\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
 C:\projects\.NET\Internship\SeverStal\Project\Notes.Backend\Notes.WebApi\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
 C:\projects\.NET\Internship\SeverStal\Project\Notes.Backend\Notes.WebApi\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\projects\.NET\Internship\SeverStal\Project\Notes.Backend\Notes.WebApi\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll

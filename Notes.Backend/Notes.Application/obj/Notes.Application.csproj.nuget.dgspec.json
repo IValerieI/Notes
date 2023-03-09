@@ -56,13 +56,13 @@
               "target": "Package",
               "version": "[11.5.1, )"
             },
-            "MediatR": {
+            "FluentValidation.DependencyInjectionExtensions": {
               "target": "Package",
-              "version": "[11.0.0, )"
+              "version": "[11.5.1, )"
             },
             "MediatR.Extensions.Microsoft.DependencyInjection": {
               "target": "Package",
-              "version": "[11.1.0, )"
+              "version": "[9.0.0, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
